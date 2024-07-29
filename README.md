@@ -29,10 +29,8 @@ Cuurrently looking for Full Stack Development Work and collaboration with others
 - [Personal Website](https://findalexis.netlify.app)
 
 ### 🔧 Tools And Languages
-- ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue)
-- ![GitHub](https://img.shields.io/badge/Platform-GitHub-black)
-- ![MERN Stack](https://img.shields.io/badge/Stack-MERN-green)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+- ![Visual Studio Code](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue) ![GitHub](https://img.shields.io/badge/Platform-GitHub-black) ![MERN Stack](https://img.shields.io/badge/Stack-MERN-green)
+- ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 
 ### :fire: My Stats :
